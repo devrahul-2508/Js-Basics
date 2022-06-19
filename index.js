@@ -6,6 +6,7 @@ let lastName = 'Roy';
 
 let interestRate = 0.3;
 interestRate = 1;
+console.log('Hello World')
 console.log(interestRate);
 const i = 0.3;
 i = 1;
