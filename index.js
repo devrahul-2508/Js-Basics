@@ -10,3 +10,4 @@ console.log(interestRate);
 const i = 0.3;
 i = 1;
 console.log(i);
+console.log("Test 2")
