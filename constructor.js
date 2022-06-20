@@ -17,4 +17,4 @@ function Person(first,last,age){
 }
 
 const p = new Person('Rahul','Roy',20);
-console.log(p.firstName+""+p.lastName+""+p.age);
+console.log(p.firstName+" "+p.lastName+" "+p.age);
